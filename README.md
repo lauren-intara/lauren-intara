@@ -26,4 +26,4 @@ I'm beginning to learn GitHub as it's an essential part of my job
 * ⭕️ Lyra
 * ✨ Self-improvement
 
-I briefly tried to figure out how to replace bullet points with emojis, but no luck yet from a quick Google search.
+I briefly tried to figure out how to replace bullet points with emojis, but no luck yet from a quick Google search
