@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## I'm a Technical Project Manager at Intara
+### I'm a Technical Project Manager at Intara
 I'm beginning to learn GitHub as it's an essential part of my job
 
-## Personal Interests
+### Personal Interests
 * ✈️ Travel
 * 🖼️ Art (both as a creator and an observer)
 * 🌸 Flowers
